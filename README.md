@@ -6,8 +6,8 @@ Also, every time the bullet hits an enemy its elevation decreases by 1, And it g
 
 
 # Constraints:-
-#### It is guaranteed that the sum of n over all test cases does not exceed 10^5.
-#### Also, $1\le$$a[i]\le n$  for all i < n .     
+#### It is guaranteed that the sum of n over all test cases does not exceed $10^{5}$.
+#### Also,1 <= a[i] <= n  for all i < n .     
 #### a[i] not equal to a[j] for all i < n .
 
 
