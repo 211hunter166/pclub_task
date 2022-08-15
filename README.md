@@ -12,7 +12,7 @@ Also, every time the bullet hits an enemy its elevation decreases by 1, And it g
 
 
 # Input:-
-#### Each test contains multiple test cases. The first line contains the number of test cases t (1<=t <= $10^{3}$). The description of the test cases follows.
+#### Each test contains multiple test cases. The first line contains the number of test cases t (1 <= t <= $10^{3}$). The description of the test cases follows.
 #### The first line of the test cases contains an integer n (the number of enemies).
 #### The next line contains n integers representing the elevation of enemies.
 
