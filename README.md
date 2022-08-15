@@ -6,15 +6,15 @@ Also, every time the bullet hits an enemy its elevation decreases by 1, And it g
 
 
 #Constraints:-
-##It is guaranteed that the sum of n over all test cases does not exceed 10^5.
-##Also, 1<=a[i] <=n for all i < n .
-##a[i] not equal to a[j] for all i < n .
+## It is guaranteed that the sum of n over all test cases does not exceed 10^5.
+## Also, 1<=a[i] <=n for all i < n .
+## a[i] not equal to a[j] for all i < n .
 
 
 #Input:-
-##Each test contains multiple test cases. The first line contains the number of test cases t (1<=t <= 10^3). The description of the test cases follows.
-##The first line of the test cases contains an integer n (the number of enemies).
-##The next line contains n integers representing the elevation of enemies.
+## Each test contains multiple test cases. The first line contains the number of test cases t (1<=t <= 10^3). The description of the test cases follows.
+## The first line of the test cases contains an integer n (the number of enemies).
+## The next line contains n integers representing the elevation of enemies.
 
 #Output:-
-##For each test case print the minimum number of bullets that are required by the soldier. 
+## For each test case print the minimum number of bullets that are required by the soldier. 
