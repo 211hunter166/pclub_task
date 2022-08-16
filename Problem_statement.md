@@ -19,7 +19,7 @@ Also, every time the bullet hits an enemy its elevation decreases by 1, And it g
 # Output:-
 #### For each test case print the minimum number of bullets that are required by the soldier. 
 
-# Example test case:-
+# Sample test case:-
 #### input 
 ##### 3
 ###### 3
