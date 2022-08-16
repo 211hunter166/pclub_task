@@ -35,3 +35,8 @@ Also, every time the bullet hits an enemy its elevation decreases by 1, And it g
 ##### 4
 ##### 5
 
+
+##### In First test case he will need 3 bullets to hit all the enemies.
+##### In second case, he will need 3 bullets to hit 5,1&2 and a single bullet to hit 4&3. total 3+1=4
+##### In Third case he needs 1 bullet for 6&5, 1 bullet for 4&3 and 3 bullets for 7,1&2 .total 1+1+3=5
+
