@@ -1,6 +1,6 @@
 # Problem statement:-
 
-A Hunter is tasked to get rid of the enemy troops in a particular area of high strategic importance. Being an efficient soldier he asks the analyst (you) to tell him the minimum number of bullets that he would require to complete the mission.
+Hunter(a sniper) is tasked to get rid of the enemy troops in a particular area of high strategic importance. Being an efficient soldier he asks the analyst (you) to tell him the minimum number of bullets that he would require to complete the mission.
 You are provided with the intelligence of enemies' number, location and elevation in the form of an array A of size N, where a[i] is the height of the enemy located at the ith position.
 Also, every time the bullet hits an enemy its elevation decreases by 1, And it goes on to hit the enemy present at elevation=elevation(currently hit) - 1. 
 
