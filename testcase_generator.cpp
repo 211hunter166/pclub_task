@@ -28,14 +28,19 @@ void randompermute(int n)
 
 int main()
 {
-    int n;
-    cout << "Enter the length of the random array required " ;
-    cin >> n;
-    if (n>100000){
-        cout << "Invalid input for n " ;
-        return 0;
-    }
+    int t,n=1;
+    cout << "Enter t " ;
+    cin >> t;
+    cout << "\n" ;
+    cout << t << "\n" ;
+    while (t>0) {
+    n = n*2;
+    n= n%100000;
+    cout << n << "\n" ;
     randompermute(n);
- 
+
+     cout << "\n" ;
+     t--;
+    }
     return 0;
 }
